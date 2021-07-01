@@ -1,3 +1,3 @@
-* I usually code in *Python*
-* **Friendly**
-* *Machine Learning*
+* *Italics*
+* **Bold**
+* *Combining **Both** *
