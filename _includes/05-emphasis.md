@@ -1,3 +1,3 @@
 * *Italics*
 * **Bold**
-* *Combining **Both** *
+* *Combining **Both***
