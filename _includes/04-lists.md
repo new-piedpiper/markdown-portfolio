@@ -1,0 +1,3 @@
+* cats 🐱
+* movies 📽️
+* sport ⚽
